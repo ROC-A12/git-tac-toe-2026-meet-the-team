@@ -10,4 +10,6 @@
 | C |🔲|🔲|🔲|
 
 ### Logboek
-1. ..
+1. Speler ❎ plaatst A1
+2. Speler ⏺️ plaatst B2
+3. Speler ❎ plaatst B3
